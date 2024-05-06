@@ -44,6 +44,11 @@ def intro():
         if second_question == "1":
             print("I'll run calculator.")
             math()
+        elif second_question == "2":
+            print("Life i guess my fella.")
+            quit()
+
+
 
 
 intro()
